@@ -1,4 +1,4 @@
-# Application of Business Analytics 
+# Application of Business Analytics - Module 2
 Postgraduate Diploma in Business Analytics
 
 Athena Global Education
