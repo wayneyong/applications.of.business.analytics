@@ -7,4 +7,4 @@ Awarded by Cambridge International Qualifications (CIQ), UK
 
 July 2023
 
-.. pdf:: https://github.com/wayneyong/CV-Resume/blob/dc56c97c92985cbe398119bd07a43927214da96f/CIQ%20UK%20-%20PGDBA.pdf
+.. pdf:: https://github.com/wayneyong/CV-Resume/blob/efe924479a15f898158a238be00362dfb09b0214/CIQ%20UK%20-%20PGDBA.pdf
