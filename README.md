@@ -1,5 +1,5 @@
-# Application of Business Analytics - Module 2
-Postgraduate Diploma in Business Analytics
+# Application of Business Analytics
+Postgraduate Diploma in Business Analytics - Module 2
 
 Cambridge International Qualifications (CIQ), UK 
 
