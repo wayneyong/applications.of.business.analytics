@@ -1,7 +1,7 @@
 # Application of Business Analytics - Module 2
 Postgraduate Diploma in Business Analytics
 
-Athena Global Education | Cambridge International Qualifications (CIQ), UK 
+Cambridge International Qualifications (CIQ), UK 
 
 July 2023
 
